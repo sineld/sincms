@@ -14,6 +14,7 @@ Bilgiler:
   2. Template motoru "mustache"
   3. Veritabanı "php-active-record" (sqlite, mysql vs. desteği)
   4. MCV yapısı
+  5. Twitter bootsrap
 
 Test etmekte serbestsiniz.
 
