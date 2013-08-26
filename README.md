@@ -9,10 +9,10 @@ Proje geliştirme aşamasıydayken vazgeçildiğinden gelişimi durduruldu.
 
 Bilgiler:
 
-  1. Ayarların tüm tek yerde saklanmıştır
+  1. Ayarların tümü tek yerde saklanmıştır
   2. Çoklu dil desteği
-  2. Template motoru mustache
-  3. Veritabanı php-active-record kullanmaktadır (sqlite, mysql vs. desteği)
+  2. Template motoru "mustache"
+  3. Veritabanı "php-active-record" (sqlite, mysql vs. desteği)
   4. MCV yapısı
 
 Test etmekte serbestsiniz.
