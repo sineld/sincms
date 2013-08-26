@@ -1,0 +1,38 @@
+/*
+Sinan Eldem
+*/
+body {
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+
+[class^="lang-"],
+[class*=" lang-"] {
+	display: inline-block;
+	width: 16px;
+	height: 11px;
+	margin-right: .1em;
+	line-height: 11px;
+	vertical-align: baseline;
+	background-position: 16px 11px;
+}
+
+.lang-tr {
+	background-image: url("../img/flag/tr.png");
+}
+
+.lang-en {
+	background-image: url("../img/flag/en.png");
+}
+
+.lang-sa {
+	background-image: url("../img/flag/sa.png");
+}
+
+.lang-ru {
+	background-image: url("../img/flag/ru.png");
+}
+
+.lang-ua {
+	background-image: url("../img/flag/ua.png");
+}

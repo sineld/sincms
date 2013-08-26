@@ -1,0 +1,1 @@
+<h1>araba markası:</h1> <ul>{{#araba_marka}} <li>{{.}}</li> {{/araba_marka}}</ul>

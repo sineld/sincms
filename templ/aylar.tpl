@@ -1,0 +1,1 @@
+ay isimleri: ocak, şubat, mart falan filan
